@@ -8,9 +8,7 @@ The assignment requested an exploratory data analysis be performed using a provi
 ## Presentation
 
 [![Presentation](https://img.youtube.com/vi/vHazJOiCSvI/maxresdefault.jpg)](https://www.youtube.com/embed/vHazJOiCSvI)
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vHazJOiCSvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+
 
 ## Data Set
 
