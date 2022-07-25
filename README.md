@@ -14,5 +14,7 @@ Google's reading assignment requested an exploratory data analysis be performed 
 - Original Source: World Bank Total CO2 Production, updated 2/5/2016 - [Data set](http://data.worldbank.org/indicator/EN.ATM.CO2E.KT)
 
 ## Dashboard
+
+[Link](https://public.tableau.com/app/profile/chadwick.johnson/viz/IsCO2percapitaareliableindicatorofacountrystotalCO2production/Dashboard2)
 ![image](https://user-images.githubusercontent.com/109831179/180744838-e922f77e-d68c-4994-815b-9dfad651f2f2.png)
 
