@@ -6,8 +6,9 @@ Dashboard project created as part of week three reading assignments in Course 6 
 The assignment requested an exploratory data analysis be performed using a provided World Bank CO2 Emissions dataset, and a dashboard created from any insights obtained from that dataset. The precleaned dataset was imported into Tableau, and after reviewing several trends, a dashboard was created comparing two metrics from the dataset: CO2 per capita and total CO2 production, and later integrated into a powerpoint presentation.
 
 ## Presentation
-
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vHazJOiCSvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
 
 ## Data Set
 
