@@ -3,6 +3,8 @@ Dashboard project created as part of week three reading assignments in Course 6 
 
 ## Background
 
+Google's week three reading assignment requested an exploratory data analysis of the provided World Bank CO2 Emissions dataset, and a dashboard be created from any insights obtained from that dataset. The dataset was imported into Tableau and after reviewing several trends, a dashboard was created comparing two metrics from the dataset: CO2 per capita and total CO2 production.
+
 ## Data Set
 
 - Cleaned World Bank CO2 Emissions dataset containing CO2 per capita and CO2 total production per country data provided by [Google](https://github.com/cgjohnso/Is-CO2-per-capita-a-reliable-indicator-of-a-countrys-total-CO2-production/blob/main/CO2-Dataset.xlsx).
