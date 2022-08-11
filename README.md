@@ -7,7 +7,7 @@ The assignment requested an exploratory data analysis be performed using a provi
 
 ## Presentation
 
-[Presentation](https://www.youtube.com/embed/vHazJOiCSvI)![image](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/blob/main/Dashboard%203.png)
+[Presentation](https://www.youtube.com/embed/vHazJOiCSvI)![image](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/blob/main/PowerpointPresentation5.png)
 
 
 ## Data Set
