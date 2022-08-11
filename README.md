@@ -7,7 +7,7 @@ The assignment requested an exploratory data analysis be performed using a provi
 
 ## Presentation
 
-[![Presentation](https://img.youtube.com/vi/vHazJOiCSvI/maxresdefault.jpg)](https://www.youtube.com/embed/vHazJOiCSvI)
+[![Presentation](https://img.youtube.com/vi/vHazJOiCSvI/maxresdefault.jpg)]([https://www.youtube.com/embed/vHazJOiCSvI)
 
 
 ## Data Set
