@@ -3,7 +3,7 @@
 
 ## Background
 
-Dashboard project created as part of Course 6 of the [Google Data Analytics Certification](https://grow.google/certificates/data-analytics/#?modal_active=none).The assignment requested an exploratory data analysis be performed using a provided World Bank CO2 Emissions dataset, and visualization created from any insights obtained from that dataset. The precleaned dataset was imported into Tableau, and after reviewing several trends, a bar graph was created comparing two metrics from the dataset: CO2 per capita, and total CO2 production. 
+Project created as part of Course 6 of the [Google Data Analytics Certification](https://grow.google/certificates/data-analytics/#?modal_active=none).The assignment requested an exploratory data analysis be performed using a provided World Bank CO2 Emissions dataset, and visualization created from any insights obtained from that dataset. The precleaned dataset was imported into Tableau, and after reviewing several trends, a bar graph was created comparing two metrics from the dataset: CO2 per capita, and total CO2 production. 
 
 ## Presentation
 
