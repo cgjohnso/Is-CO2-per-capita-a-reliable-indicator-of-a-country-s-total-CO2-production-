@@ -18,8 +18,8 @@ The assignment requested an exploratory data analysis be performed using a provi
 
 - Original Source: World Bank Total CO2 Production, updated 2/5/2016 - [Download](http://data.worldbank.org/indicator/EN.ATM.CO2E.KT)
 
-## Dashboard
+## Bar Graph
 
-[Dashboard](https://public.tableau.com/app/profile/chadwick.johnson/viz/IsCO2percapitaareliableindicatorofacountrystotalCO2production/Dashboard3)
+[BarGraph](https://public.tableau.com/app/profile/chadwick.johnson/viz/IsCO2percapitaareliableindicatorofacountrystotalCO2production/Dashboard3)
 ![image](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/blob/main/Dashboard%203.png)
 
