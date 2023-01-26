@@ -10,7 +10,7 @@ To combat climate change, the World Bank has set a goal in its Climate Action Pl
 I loaded the World Bank's CO2 Dataset into Tableau, and created a visualization that segmented countries into categories based on emission levels. A power point was created, and a final analysis of the data was performed via a narrarated presentation that was uploaded to Youtube.
 
 ## Presentation
-[<img src="[img/myImage.png](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/blob/main/PowerpointPresentation5.png)">]([http://example.com/)](https://youtu.be/XGYeh6eDvbM))
+[![homepage](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/blob/main/PowerpointPresentation5.png)](https://youtu.be/XGYeh6eDvbM "Redirect to homepage")
 [Presentation](https://youtu.be/XGYeh6eDvbM)![image](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/blob/main/PowerpointPresentation5.png)
 
 
