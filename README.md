@@ -24,7 +24,7 @@ I loaded the World Bank's CO2 Dataset into Tableau, and created a visualization 
 - Original Source: World Bank Total CO2 Production, updated 2/5/2016 - [Download](http://data.worldbank.org/indicator/EN.ATM.CO2E.KT)
 
 ## Visualizations
-https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/raw/main/Dashboard%203.png
+
 
 [![Tableau](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/raw/main/Dashboard%203.png)](https://public.tableau.com/app/profile/chadwick.johnson/viz/IsCO2percapitaareliableindicatorofacountrystotalCO2production/Dashboard3 "Redirect to Tableau Public")
 
