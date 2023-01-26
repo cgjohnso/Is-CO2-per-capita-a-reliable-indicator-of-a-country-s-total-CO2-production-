@@ -11,7 +11,7 @@ I loaded the World Bank's CO2 Dataset into Tableau, and created a visualization 
 
 ## Presentation
 [![homepage](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/blob/main/PowerpointPresentation5.png)](https://youtu.be/XGYeh6eDvbM "Redirect to homepage")
-[Presentation](https://youtu.be/XGYeh6eDvbM)![image](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/blob/main/PowerpointPresentation5.png)
+
 
 
 ## Data Set
