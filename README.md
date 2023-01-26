@@ -1,9 +1,9 @@
 # Scrutinizing The World Bank Climate Action Plan
 
 
-## Background
+## Business Problem
 
-Project created as part of Course 6 of the [Google Data Analytics Certification](https://grow.google/certificates/data-analytics/#?modal_active=none).The assignment requested an exploratory data analysis be performed using a provided World Bank CO2 Emissions dataset, and visualization created from any insights obtained from that dataset. The precleaned dataset was imported into Tableau, and after reviewing several trends, a bar graph was created comparing two metrics from the dataset: CO2 per capita, and total CO2 production. 
+To combat climate change, the World Bank has set a goal in its Climate Action Plan 2021-2025 to focus resources on reducing emissions from high CO2 per capita emitting countries. I review the global CO2 emissions dataset to determine if this strategy will have the intended outcomes of reducing global greenhouse gases.
 
 ## Presentation
 
