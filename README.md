@@ -5,6 +5,10 @@
 
 To combat climate change, the World Bank has set a goal in its Climate Action Plan 2021-2025 to focus resources on reducing emissions from high CO2 per capita emitting countries. I review the global CO2 emissions dataset to determine if this strategy will have the intended outcomes of reducing global greenhouse gases.
 
+## Results
+
+I loaded the World Bank's CO2 Dataset into Tableau, and created a visualization that segmented countries into categories based on emission levels. A power point was created, and a final analysis of the data was performed via a narrarated presentation that was uploaded to Youtube.
+
 ## Presentation
 
 [Presentation](https://youtu.be/XGYeh6eDvbM)![image](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/blob/main/PowerpointPresentation5.png)
