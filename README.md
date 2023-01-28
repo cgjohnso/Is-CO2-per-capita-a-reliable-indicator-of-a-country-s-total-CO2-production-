@@ -19,9 +19,9 @@ I loaded the World Bank's CO2 Dataset into Tableau, and created a visualization 
 
 - Cleaned World Bank CO2 Emissions dataset provided by Google. - [Download](https://github.com/cgjohnso/Is-CO2-per-capita-a-reliable-indicator-of-a-countrys-total-CO2-production/blob/main/CO2-Dataset.xlsx).
 
-- Original Source: World Bank CO2 Emissions Per Capita, updated 2/5/2016 - [Download](http://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
+- World Bank CO2 Emissions Per Capita, updated 2/5/2016 - [Download](http://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
 
-- Original Source: World Bank Total CO2 Production, updated 2/5/2016 - [Download](http://data.worldbank.org/indicator/EN.ATM.CO2E.KT)
+- World Bank Total CO2 Production, updated 2/5/2016 - [Download](http://data.worldbank.org/indicator/EN.ATM.CO2E.KT)
 
 ## Visualizations
 
