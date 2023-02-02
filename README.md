@@ -39,7 +39,7 @@ Since the data was already cleaned and pre-prepared, I directly ingested the CO2
 
 ## Insights
 
-1. The top 10 emitting countries by total CO2 production account for 71% of all global CO2 emissions
+1. The top 10 emitting countries by total CO2 production account for 72% of all global CO2 emissions
 2. The top 10 emitting countries by CO2 per capita account for 3% of all global CO2 emissions
 3. All other countries combined minus the top 10 emitting countries by total CO2 production, and the top 10 emitting countries by CO2 per capita account for 25% of all global CO2 emissions
 
