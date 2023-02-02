@@ -7,9 +7,9 @@ To combat climate change, the World Bank has set a goal in its Climate Action Pl
 
 
 Tools used in this project are:
-+	Tableau Desktop
-+	Microsoft Excel
-+ Microsoft Powerpoint
++	Tableau Desktop to creat a visualization that segmented countries into categories based on emission levels
++	Microsoft Excel to ingest CO2 emission data for exploratory data analysis
++ Microsoft Powerpoint to narrate presentation 
 + YouTube
 
 
@@ -30,14 +30,9 @@ To measure the effectiveness of the strategy, I focused on determining the contr
 2. What is the total CO2 production for the top 10 emitting countries by CO2 per capita?
 3. What is the total CO2 production for all other countries combined minus the top 10 emitters by total C02 production, and the top 10 emitting countries by CO2 per capita?
 
-
-## Results
-
-I loaded the World Bank's CO2 Dataset into Tableau, and created a visualization that segmented countries into categories based on emission levels. A power point was created, and a final analysis of the data was performed via a narrarated presentation that was uploaded to Youtube.
-
 ## Methodology
 
-
+I loaded the World Bank's CO2 Dataset into Tableau
 
 ## [Presentation (YouTube)](https://youtu.be/XGYeh6eDvbM)
 [![Presentation](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/blob/main/PowerpointPresentation5.png)](https://youtu.be/XGYeh6eDvbM "Redirect to presentation")
