@@ -26,7 +26,8 @@ I loaded the World Bank's CO2 Dataset into Tableau, and created a visualization 
 
 ## Recommendations
 
-1. 
+1. Don't use CO2 per capita as a metric to determine where to allocate funds, and attention as countries with high per capita CO2 contribute the least to overall CO2 levels. 
+2. For highest return on investment, establish policies, and direct resources to reach out to the top 10 emitting countries by Total CO2 production as these countries contribute the vast majority of CO2 emissions.
 
 ## [Presentation (YouTube)](https://youtu.be/XGYeh6eDvbM)
 [![Presentation](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/blob/main/PowerpointPresentation5.png)](https://youtu.be/XGYeh6eDvbM "Redirect to presentation")
