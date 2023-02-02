@@ -52,8 +52,6 @@ I loaded the World Bank's CO2 Dataset into Tableau, and created a visualization 
 
 
 
-## Visualizations
-
 
 
 
