@@ -35,6 +35,10 @@ To measure the effectiveness of the strategy, I focused on determining the contr
 
 I loaded the World Bank's CO2 Dataset into Tableau, and created a visualization that segmented countries into categories based on emission levels. A power point was created, and a final analysis of the data was performed via a narrarated presentation that was uploaded to Youtube.
 
+## Methodology
+
+
+
 ## [Presentation (YouTube)](https://youtu.be/XGYeh6eDvbM)
 [![Presentation](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/blob/main/PowerpointPresentation5.png)](https://youtu.be/XGYeh6eDvbM "Redirect to presentation")
 
