@@ -5,6 +5,14 @@
 
 To combat climate change, the World Bank has set a goal in its Climate Action Plan 2021-2025 to focus resources on reducing emissions from high CO2 per capita emitting countries. I review the global CO2 emissions dataset to determine if this strategy will have the intended outcomes of reducing global greenhouse gases.
 
+## Data Set
+
+- Cleaned World Bank CO2 Emissions dataset provided by Google. - [Download](https://github.com/cgjohnso/Is-CO2-per-capita-a-reliable-indicator-of-a-countrys-total-CO2-production/blob/main/CO2-Dataset.xlsx).
+
+- World Bank CO2 Emissions Per Capita, updated 2/5/2016 - [Download](http://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
+
+- World Bank Total CO2 Production, updated 2/5/2016 - [Download](http://data.worldbank.org/indicator/EN.ATM.CO2E.KT)
+
 ## Research Questions
 
 To measure the effectiveness of the strategy, I focused on determining the contribution to global CO2 emissions made by specific blocs of countries through developing the following research questions:
@@ -38,13 +46,7 @@ I loaded the World Bank's CO2 Dataset into Tableau, and created a visualization 
 
 
 
-## Data Set
 
-- Cleaned World Bank CO2 Emissions dataset provided by Google. - [Download](https://github.com/cgjohnso/Is-CO2-per-capita-a-reliable-indicator-of-a-countrys-total-CO2-production/blob/main/CO2-Dataset.xlsx).
-
-- World Bank CO2 Emissions Per Capita, updated 2/5/2016 - [Download](http://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
-
-- World Bank Total CO2 Production, updated 2/5/2016 - [Download](http://data.worldbank.org/indicator/EN.ATM.CO2E.KT)
 
 ## Visualizations
 
