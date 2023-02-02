@@ -18,6 +18,12 @@ To measure the effectiveness of the strategy, I focused on determining each coun
 
 I loaded the World Bank's CO2 Dataset into Tableau, and created a visualization that segmented countries into categories based on emission levels. A power point was created, and a final analysis of the data was performed via a narrarated presentation that was uploaded to Youtube.
 
+## Insights
+
+1. The top 10 emitting countries by total CO2 production account for 71% of all global CO2 emissions
+2. The top 10 emitting countries by CO2 per capita account for 3% of all global CO2 emissions
+3. All other countries combined account for 25% of all global CO2 emissions
+
 ## [Presentation (YouTube)](https://youtu.be/XGYeh6eDvbM)
 [![Presentation](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/blob/main/PowerpointPresentation5.png)](https://youtu.be/XGYeh6eDvbM "Redirect to presentation")
 
