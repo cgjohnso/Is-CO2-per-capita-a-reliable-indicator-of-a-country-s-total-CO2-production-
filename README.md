@@ -7,7 +7,7 @@ To combat climate change, the World Bank has set a goal in its Climate Action Pl
 
 ## Research Questions
 
-To measure the effectiveness of the strategy, I focused on determining each country's contribution to global CO2 emissions through developing the following research questions:
+To measure the effectiveness of the strategy, I focused on determining the contribution to global CO2 emissions for specific blocs of countries through developing the following research questions:
 
 1. What is the total CO2 production for the top 10 emitting countries?
 2. What is the total CO2 production for the top 10 emitting countries by CO2 per capita?
