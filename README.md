@@ -7,11 +7,12 @@ To combat climate change, the World Bank has set a goal in its Climate Action Pl
 
 ## Research Questions
 
-Tools Used in this project are:
-1. SQL Server Management Studio	19 (SSMS)
-2. Microsoft SQL Server Developer (16.0.1000.6)
-3. Notepad++
-4. Tableau Desktop
+To measure the effectiveness of the strategy, I focused on determining each country's contribution to global CO2 emissions through developing the following research questions:
+
+1. What is the total CO2 production for the top 10 emitting countries?
+2. What is the total CO2 production for the top 10 emitting countries by CO2 per capita?
+3. What is the total CO2 production for all other countries combined minus the top 10 emitters by total C02 production, and the top 10 emitting countries by CO2 per capita?
+
 
 ## Results
 
