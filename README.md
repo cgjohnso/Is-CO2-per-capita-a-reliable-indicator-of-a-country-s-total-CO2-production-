@@ -31,7 +31,7 @@ To measure the effectiveness of the strategy, I focused on determining the contr
 
 ## Methodology
 
-I loaded the World Bank's CO2 Dataset into Tableau
+I ingested the CO2 emissions data into Tableau, and setup the relational diagram table links between the datasets. I then created groupings based on CO2 production, and CO2 per capita criteria. Finally, I graphed the groupings using a horizontal bar graph, where each was compared with the other to show their relative contribution to global CO2 production.
 
 ## [Presentation (YouTube)](https://youtu.be/XGYeh6eDvbM)
 [![Presentation](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/blob/main/PowerpointPresentation5.png)](https://youtu.be/XGYeh6eDvbM "Redirect to presentation")
