@@ -7,7 +7,7 @@ To combat climate change, the World Bank has set a goal in its Climate Action Pl
 
 
 Tools & skills used in this project are:
-+	Tableau Desktop to creat a visualization that segmented countries into categories based on emission levels
++	Tableau Desktop to create a visualization that segmented countries into categories based on emission levels
 +	Microsoft Excel to ingest CO2 emission data for exploratory data analysis
 + Microsoft Powerpoint to narrate presentation 
 + YouTube
