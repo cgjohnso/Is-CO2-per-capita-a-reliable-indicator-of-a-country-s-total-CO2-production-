@@ -9,6 +9,8 @@ To combat climate change, the World Bank has set a goal in its Climate Action Pl
 Tools Used in this project are:
 -	Tableau Desktop
 *	Microsoft Excel
+* Microsoft Powerpoint
+* YouTube
 
 
 
