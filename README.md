@@ -36,6 +36,8 @@ I loaded the World Bank's CO2 Dataset into Tableau, and created a visualization 
 2. The top 10 emitting countries by CO2 per capita account for 3% of all global CO2 emissions
 3. All other countries combined minus the top 10 emitting countries by total CO2 production, and the top 10 emitting countries by CO2 per capita account for 25% of all global CO2 emissions
 
+[![Tableau](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/raw/main/Dashboard%203.png)](https://public.tableau.com/app/profile/chadwick.johnson/viz/IsCO2percapitaareliableindicatorofacountrystotalCO2production/Dashboard3 "Redirect to Tableau Public")
+
 ## Recommendations
 
 1. Don't use CO2 per capita as a metric to determine where to allocate funds, and attention as countries with high per capita CO2 contribute the least to global CO2 levels. 
@@ -53,5 +55,5 @@ I loaded the World Bank's CO2 Dataset into Tableau, and created a visualization 
 ## Visualizations
 
 
-[![Tableau](https://github.com/cgjohnso/Scrutinizing-The-World-Bank-Climate-Action-Plan/raw/main/Dashboard%203.png)](https://public.tableau.com/app/profile/chadwick.johnson/viz/IsCO2percapitaareliableindicatorofacountrystotalCO2production/Dashboard3 "Redirect to Tableau Public")
+
 
