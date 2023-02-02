@@ -6,7 +6,7 @@
 To combat climate change, the World Bank has set a goal in its Climate Action Plan 2021-2025 to focus resources on reducing emissions from high CO2 per capita emitting countries. I review the global CO2 emissions dataset to determine if this strategy will have the intended outcomes of reducing global greenhouse gases.
 
 
-Tools Used in this project are:
+Tools used in this project are:
 +	Tableau Desktop
 +	Microsoft Excel
 + Microsoft Powerpoint
