@@ -5,6 +5,13 @@
 
 To combat climate change, the World Bank has set a goal in its Climate Action Plan 2021-2025 to focus resources on reducing emissions from high CO2 per capita emitting countries. I review the global CO2 emissions dataset to determine if this strategy will have the intended outcomes of reducing global greenhouse gases.
 
+
+Tools Used in this project are:
+-	Tableau Desktop
+*	Microsoft Excel
+
+
+
 ## Data Set
 
 - Cleaned World Bank CO2 Emissions dataset provided by Google. - [Download](https://github.com/cgjohnso/Is-CO2-per-capita-a-reliable-indicator-of-a-countrys-total-CO2-production/blob/main/CO2-Dataset.xlsx).
